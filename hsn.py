@@ -558,9 +558,6 @@ print(s)'''
 #     return result
 #   return list(lst)
 
-num=[3,1,2]
-print(num)
-print(sorted(num))
-print(num.sort())
+
  
 
