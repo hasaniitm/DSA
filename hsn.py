@@ -28,8 +28,6 @@ numbers = [1, 2, 3, 2, 4, 1, 5, 3]
 print(numbers[::-1])
 
 
-
-
 numbers = [1, 2, 3, 2, 4, 1, 5, 3]
 s=list(set(numbers))
 print(s[-2])
@@ -175,11 +173,6 @@ print(n)
 s=max(n,key=n.get)
 print(s)'''
 
-
-     
-        
-        
- 
 # s = "mississippi"
 # n={}
 # for i in s:
@@ -543,9 +536,6 @@ print(s)'''
 # print(s)
 
  
-
-
-
 # def rotate_even(lst, k):
 #   evens = lst[0::2]
 #   if evens:
