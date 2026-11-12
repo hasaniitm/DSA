@@ -2,13 +2,6 @@
 even=0
 odd=0
 
-for i in numbers:
-    if i%2==0:
-        even+=1
-    
-    else:
-        odd+=1
-print(f"Even : {even}\nOdd : {odd}")'''
 
 
 '''numbers = [1, 2, 3, 2, 4, 1, 5, 3]
@@ -583,6 +576,13 @@ print(s)'''
 #   return list(lst)
 
 
+#for i in numbers:
+ #   if i%2==0:
+  #      even+=1
+    
+   # else:
+    #    odd+=1
+#print(f"Even : {even}\nOdd : {odd}")'''
 
 
 
