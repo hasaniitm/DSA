@@ -567,3 +567,22 @@ print(s)'''
 #     if i.isdigit():
 #         print(i,end='')
 
+
+
+
+# def rotate_even(lst, k):
+#   evens = lst[0::2]
+#   if evens:
+#     k = k % len(evens)
+#     # Rotate right by slicing
+#     rotated_evens = evens[-k:] + evens[:-k]
+
+#     result = list(lst)
+#     result[0::2] = rotated_evens
+#     return result
+#   return list(lst)
+
+
+
+
+
