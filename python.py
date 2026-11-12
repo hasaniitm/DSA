@@ -1,25 +1,9 @@
-# def check(num1:int,num2:int):
+ # def check(num1:int,num2:int):
 #     if str(num1)[-1]==str(num2)[-1]:
 #         return 'same'
 #     else:
 #         return 'different'
     
-# h=check(41,30)
-# print(h)
-
-# def cal(n:int,f:int):
-#     prts=[]
-#     quotent=n//f
-#     remender=n%f
-#     for i in range(f):
-#         if i<remender:
-#             prts.append(quotent+1)
-#         else:
-#             prts.append(quotent)
-#     return prts      
-                
-# h=cal(10,3)  
-# print(h)
 
 
 # s=''' hello this is hasan and tell me abiut your self 
@@ -403,15 +387,35 @@ Plaintext
 #         h.extend([l[i+1],l[i]])
 #     print(h)
 
-h='hasan'
+'''h='hasan'
 m='ali'
 
 h=[1,2,3,4,5]
 
 for i in range(len(h)-1,len(h)-1-3,-1):
     h[i]=h[i]**2
-print(h)
+print(h)'''
         
+
+
+
+
+# h=check(41,30)
+# print(h)
+
+# def cal(n:int,f:int):
+#     prts=[]
+#     quotent=n//f
+#     remender=n%f
+#     for i in range(f):
+#         if i<remender:
+#             prts.append(quotent+1)
+#         else:
+#             prts.append(quotent)
+#     return prts      
+                
+# h=cal(10,3)  
+# print(h)
 
 
    
