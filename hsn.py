@@ -561,5 +561,9 @@ print(s)'''
 
 
 
+# name='1C2A344'
 
+# for i in name:
+#     if i.isdigit():
+#         print(i,end='')
 
