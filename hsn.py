@@ -585,4 +585,20 @@ print(s)'''
 #print(f"Even : {even}\nOdd : {odd}")'''
 
 
+two = '''2
+Python Programming
+Data Science'''
 
+sp = two.split('\n')
+vow = 'aeiou'
+
+'''for i in sp[1:]:
+    l = []    
+    
+    for j in i:
+        if j.isalpha() and j.lower() not in vow:
+            l.append('#')
+        else:
+            l.append(j)
+    
+    print(''.join(l))'''
