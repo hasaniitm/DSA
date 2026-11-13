@@ -79,6 +79,16 @@ for i in s:
 print(f"Vowel:{vow_count}\nCons:{cons}")
 '''
 
+'''
+numbers = [1, 2, 3, 2, 4, 1, 5, 3]
+print(numbers[::-1])
+
+
+numbers = [1, 2, 3, 2, 4, 1, 5, 3]
+s=list(set(numbers))
+print(s[-2])
+'''
+
 
 '''s = "madam"
 if s[::]==s[::-1]:
