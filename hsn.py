@@ -563,16 +563,6 @@ print(s)'''
 #print(dic)'''
 
 
-
-# name='1C2A344'
-
-# for i in name:
-#     if i.isdigit():
-#         print(i,end='')
-
-
-
-
 # def rotate_even(lst, k):
 #   evens = lst[0::2]
 #   if evens:
