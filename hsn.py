@@ -2,14 +2,14 @@
 even=0
 odd=0
 
-
-
 '''numbers = [1, 2, 3, 2, 4, 1, 5, 3]
 n=[]
 for i in numbers:
     if i not in n:
         n.append(i)
 print(n)'''
+
+
 
 # numbers = [1, 2, 3, 2, 4, 1, 5, 3]
 # numbers.reverse()
